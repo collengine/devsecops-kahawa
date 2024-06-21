@@ -12,7 +12,7 @@
     <artifactId>spring-boot-api-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-api-example</name>
-    <description>spring-boot-api-example</description>
+    <description>spring-boot-api-examples</description>
     <properties>
         <java.version>11</java.version>
         <sonar.organization>devops-wit</sonar.organization>
